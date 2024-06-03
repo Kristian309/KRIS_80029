@@ -1,0 +1,39 @@
+/* contacts.css */
+
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f2f2f2; 
+}
+
+section#contact {
+    padding: 20px;
+    text-align: center;
+    background-color: #a77979; 
+    border-radius: 10px; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); 
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #000000; 
+}
+
+address p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #ffffff; 
+}
+
+iframe {
+    width: 100%;
+    max-width: 800px;
+    height: 450px;
+    margin: 20px auto;
+    border: none;
+    border-radius: 10px; 
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.671); 
+}
